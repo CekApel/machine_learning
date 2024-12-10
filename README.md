@@ -1,17 +1,11 @@
 <h1 align="center">
-  Fruitarians Classification Model
+  Cek Apel Model
   <br>
 </h1>
 
-<p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#library-used">Library Used</a> •
-</p>
-
 ## Dataset
 
-Final Dataset
-* [Apple-Revised](https://www.kaggle.com/datasets/ezziomonk/apple-revised/data)
+[Apple-Revised](https://www.kaggle.com/datasets/ezziomonk/apple-revised/data)
 
 ## Key Features
 
