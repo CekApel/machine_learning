@@ -1,7 +1,4 @@
-<h1 align="center">
-  Cek Apel Model
-  <br>
-</h1>
+# Cek-Apel, Final Capstone Project
 
 ## Dataset
 
