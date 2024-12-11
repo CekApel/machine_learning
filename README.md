@@ -25,3 +25,8 @@
 * Random
 * Shutil
 * Zipfile
+
+## Models Accuracy and Loss
+
+![WhatsApp Image 2024-12-11 at 20 57 50](https://github.com/user-attachments/assets/eb069402-cfdf-403f-8579-46648630ec55)
+
