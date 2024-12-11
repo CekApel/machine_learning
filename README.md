@@ -11,7 +11,6 @@
   - Black Rot
   - Cedar Apple Rust  
   - Healthy
-* Model Accuracy around 92%
 
 ## Library Used
 
